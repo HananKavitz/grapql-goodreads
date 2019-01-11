@@ -1,0 +1,26 @@
+{
+  "name": "grapql-goodreads",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HananKavitz/grapql-goodreads.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HananKavitz/grapql-goodreads/issues"
+  },
+  "homepage": "https://github.com/HananKavitz/grapql-goodreads#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.0.2",
+    "node-fetch": "^2.3.0",
+    "xml2js": "^0.4.19"
+  }
+}
